@@ -1,0 +1,21 @@
+body{
+    background-size: cover;
+    
+}
+h1, h2, h4{
+    color: blanchedalmond;
+    font-family: algerian;
+
+}
+
+a
+{
+    font-style: normal;
+    color: whitesmoke ;
+
+}
+i 
+{
+    background-color: wheat;
+    font-style: initial;
+}
